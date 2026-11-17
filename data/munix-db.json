@@ -1,0 +1,342 @@
+{
+  "profiles": [],
+  "user_roles": [],
+  "music_projects": [],
+  "audio_files": [
+    {
+      "id": "track-featured-1",
+      "userId": "system",
+      "title": "Kigali Gold Pulse (Club Mix)",
+      "artist": "DJ MUNIX",
+      "category": "Afrobeat",
+      "storagePath": "/app/applet/data/storage/public/dj_munix_kigali_pulse_106bpm.wav",
+      "mimeType": "audio/wav",
+      "fileSizeBytes": 705644,
+      "durationSec": 16,
+      "bpm": 106,
+      "coverUrl": "/src/assets/images/featured_afrobeat_cover_1794905823849.jpg",
+      "isPublic": true,
+      "isFeatured": true,
+      "isPopularMix": true,
+      "sourceType": "featured_beat",
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    },
+    {
+      "id": "track-featured-2",
+      "userId": "system",
+      "title": "Emerald Log Drum Sessions",
+      "artist": "DJ MUNIX",
+      "category": "Amapiano",
+      "storagePath": "/app/applet/data/storage/public/dj_munix_emerald_logdrum_114bpm.wav",
+      "mimeType": "audio/wav",
+      "fileSizeBytes": 705644,
+      "durationSec": 16,
+      "bpm": 114,
+      "coverUrl": "/src/assets/images/featured_amapiano_cover_1794905825163.jpg",
+      "isPublic": true,
+      "isFeatured": true,
+      "isPopularMix": true,
+      "sourceType": "featured_beat",
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    },
+    {
+      "id": "track-featured-3",
+      "userId": "system",
+      "title": "Grace & Keys (Kinyarwanda Gospel Beat)",
+      "artist": "MUNIX Studio",
+      "category": "Gospel",
+      "storagePath": "/app/applet/data/storage/public/munix_ai_grace_piano_92bpm.wav",
+      "mimeType": "audio/wav",
+      "fileSizeBytes": 705644,
+      "durationSec": 16,
+      "bpm": 92,
+      "coverUrl": "/src/assets/images/featured_gospel_cover_1794905825204.jpg",
+      "isPublic": true,
+      "isFeatured": true,
+      "isPopularMix": false,
+      "sourceType": "featured_beat",
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    },
+    {
+      "id": "track-featured-4",
+      "userId": "system",
+      "title": "Rwandan Heritage Rhythm 122",
+      "artist": "DJ MUNIX",
+      "category": "Traditional Rwandan music",
+      "storagePath": "/app/applet/data/storage/public/traditional_rwandan_groove_122bpm.wav",
+      "mimeType": "audio/wav",
+      "fileSizeBytes": 705644,
+      "durationSec": 16,
+      "bpm": 122,
+      "coverUrl": "/src/assets/images/featured_afrobeat_cover_1794905823849.jpg",
+      "isPublic": true,
+      "isFeatured": false,
+      "isPopularMix": true,
+      "sourceType": "featured_beat",
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    }
+  ],
+  "generated_music": [],
+  "voice_profiles": [],
+  "sound_effects": [
+    {
+      "id": "fx-echo",
+      "createdBy": null,
+      "name": "Dub Tape Echo",
+      "category": "Time & Space",
+      "effectType": "echo",
+      "description": "Tempo-synced warm feedback delay for smooth transitions.",
+      "defaultParams": {
+        "delayTime": 0.35,
+        "feedback": 0.45,
+        "mix": 0.4
+      },
+      "audioFileId": null,
+      "isGlobal": true,
+      "isActive": true,
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    },
+    {
+      "id": "fx-reverb",
+      "createdBy": null,
+      "name": "Cathedral Hall Reverb",
+      "category": "Time & Space",
+      "effectType": "reverb",
+      "description": "Lush studio hall impulse tail for vocals and gospel intros.",
+      "defaultParams": {
+        "decay": 2.4,
+        "mix": 0.38
+      },
+      "audioFileId": null,
+      "isGlobal": true,
+      "isActive": true,
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    },
+    {
+      "id": "fx-delay",
+      "createdBy": null,
+      "name": "Ping-Pong Delay",
+      "category": "Time & Space",
+      "effectType": "delay",
+      "description": "Crisp rhythmic slapback delay for MC hype & drops.",
+      "defaultParams": {
+        "delayTime": 0.25,
+        "feedback": 0.35,
+        "mix": 0.35
+      },
+      "audioFileId": null,
+      "isGlobal": true,
+      "isActive": true,
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    },
+    {
+      "id": "fx-flanger",
+      "createdBy": null,
+      "name": "Jet Sweeper Flanger",
+      "category": "Modulation",
+      "effectType": "flanger",
+      "description": "Sweeping comb-filter modulation for EDM and club risers.",
+      "defaultParams": {
+        "rate": 0.4,
+        "depth": 0.004,
+        "feedback": 0.5
+      },
+      "audioFileId": null,
+      "isGlobal": true,
+      "isActive": true,
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    },
+    {
+      "id": "fx-phaser",
+      "createdBy": null,
+      "name": "Analog Stage Phaser",
+      "category": "Modulation",
+      "effectType": "phaser",
+      "description": "Warm 4-stage notch sweep for afro-fusion synths.",
+      "defaultParams": {
+        "rate": 0.6,
+        "baseFreq": 800,
+        "q": 4
+      },
+      "audioFileId": null,
+      "isGlobal": true,
+      "isActive": true,
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    },
+    {
+      "id": "fx-filter",
+      "createdBy": null,
+      "name": "DJ Sweep Filter",
+      "category": "Filter & EQ",
+      "effectType": "filter",
+      "description": "Resonant lowpass/highpass sweep for deck drops.",
+      "defaultParams": {
+        "cutoff": 1400,
+        "resonance": 6,
+        "mode": "lowpass"
+      },
+      "audioFileId": null,
+      "isGlobal": true,
+      "isActive": true,
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    },
+    {
+      "id": "fx-chorus",
+      "createdBy": null,
+      "name": "Stereo Ensemble Chorus",
+      "category": "Modulation",
+      "effectType": "chorus",
+      "description": "Thickens lead vocals and acoustic guitars.",
+      "defaultParams": {
+        "rate": 1.5,
+        "depth": 0.003,
+        "mix": 0.35
+      },
+      "audioFileId": null,
+      "isGlobal": true,
+      "isActive": true,
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    },
+    {
+      "id": "fx-distortion",
+      "createdBy": null,
+      "name": "Tube Saturation Drive",
+      "category": "Dynamics",
+      "effectType": "distortion",
+      "description": "Harmonic analog grit for 808s and log drums.",
+      "defaultParams": {
+        "drive": 24,
+        "mix": 0.3
+      },
+      "audioFileId": null,
+      "isGlobal": true,
+      "isActive": true,
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    },
+    {
+      "id": "fx-bassboost",
+      "createdBy": null,
+      "name": "Sub Bass Boost +9dB",
+      "category": "Filter & EQ",
+      "effectType": "bass_boost",
+      "description": "Tight 75Hz low-shelf punch for club sound systems.",
+      "defaultParams": {
+        "gainDb": 9,
+        "freq": 85
+      },
+      "audioFileId": null,
+      "isGlobal": true,
+      "isActive": true,
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    },
+    {
+      "id": "fx-voicechanger",
+      "createdBy": null,
+      "name": "Studio Pitch Formant",
+      "category": "Voice",
+      "effectType": "voice_changer",
+      "description": "Adjusts pitch rate & presence for MC drops.",
+      "defaultParams": {
+        "pitchShift": 1.12,
+        "clarity": 4
+      },
+      "audioFileId": null,
+      "isGlobal": true,
+      "isActive": true,
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    },
+    {
+      "id": "fx-djdrop",
+      "createdBy": null,
+      "name": "MUNIX Laser Airhorn Drop",
+      "category": "DJ Drops",
+      "effectType": "dj_drop",
+      "description": "Classic club synth horn + sub impact drop.",
+      "defaultParams": {
+        "gain": 0.85
+      },
+      "audioFileId": null,
+      "isGlobal": true,
+      "isActive": true,
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    },
+    {
+      "id": "fx-transition",
+      "createdBy": null,
+      "name": "White Noise Riser & Impact",
+      "category": "Transitions",
+      "effectType": "transition",
+      "description": "4-beat filtered sweep into clean sub drop.",
+      "defaultParams": {
+        "duration": 1.8
+      },
+      "audioFileId": null,
+      "isGlobal": true,
+      "isActive": true,
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-welcome-1",
+      "userId": null,
+      "title": "Welcome to MIX DJ – MUNIX AI",
+      "message": "Dual-deck Web Audio mixer, Audio Editing Studio, and Gemini AI Voice & Assistant are live. Install the PWA for offline studio access.",
+      "kind": "announcement",
+      "readBy": [],
+      "createdAt": "2026-11-17T09:07:05.727Z"
+    }
+  ],
+  "admin_settings": {
+    "id": "global",
+    "appName": "MIX DJ – MUNIX AI",
+    "brandName": "DJ MUNIX",
+    "aiStudioName": "MUNIX AI",
+    "logoUrl": "/src/assets/images/munix_logo_emblem_1794905823104.jpg",
+    "heroImageUrl": "/src/assets/images/hero_dj_munix_1794905824293.jpg",
+    "heroTitle": "Mix Live. Produce with MUNIX AI.",
+    "heroSubtitle": "Two-deck Web Audio DJ console, studio audio editor, vocal & instrument tools, and voice studio engineered for DJ MUNIX.",
+    "themeAccent": "#10b981",
+    "themeGold": "#d4af37",
+    "categories": [
+      "Gospel",
+      "Afrobeat",
+      "Amapiano",
+      "Hip-hop",
+      "R&B",
+      "Dancehall",
+      "Reggae",
+      "Afro-pop",
+      "Traditional Rwandan music",
+      "Electronic dance music",
+      "Worship",
+      "Jazz",
+      "Acoustic"
+    ],
+    "enabledSections": {
+      "featured": true,
+      "recent": true,
+      "popular": true,
+      "aiNew": true,
+      "categories": true,
+      "announcements": true
+    },
+    "aiConfig": {
+      "musicProvider": "lyria",
+      "dailyLimit": 25,
+      "voiceEnabled": true,
+      "munixVoiceAuthorized": false,
+      "supportedLanguages": [
+        "Kinyarwanda",
+        "English",
+        "French",
+        "Kiswahili",
+        "Lingala",
+        "Luganda"
+      ]
+    },
+    "updatedAt": "2026-11-17T09:07:05.727Z"
+  },
+  "usage_logs": [],
+  "audit_logs": []
+}
